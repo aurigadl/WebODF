@@ -1,0 +1,1 @@
+cmd='./configure;--prefix=/home/aurigadl/Descargas/build/NodeJS-prefix'

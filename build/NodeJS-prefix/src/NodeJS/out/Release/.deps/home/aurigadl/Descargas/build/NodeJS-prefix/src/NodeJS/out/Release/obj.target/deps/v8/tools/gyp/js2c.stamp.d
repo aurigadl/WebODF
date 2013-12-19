@@ -1,0 +1,1 @@
+cmd_/home/aurigadl/Descargas/build/NodeJS-prefix/src/NodeJS/out/Release/obj.target/deps/v8/tools/gyp/js2c.stamp := touch /home/aurigadl/Descargas/build/NodeJS-prefix/src/NodeJS/out/Release/obj.target/deps/v8/tools/gyp/js2c.stamp

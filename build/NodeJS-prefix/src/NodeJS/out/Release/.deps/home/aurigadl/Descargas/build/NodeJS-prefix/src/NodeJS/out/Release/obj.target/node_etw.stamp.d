@@ -1,0 +1,1 @@
+cmd_/home/aurigadl/Descargas/build/NodeJS-prefix/src/NodeJS/out/Release/obj.target/node_etw.stamp := touch /home/aurigadl/Descargas/build/NodeJS-prefix/src/NodeJS/out/Release/obj.target/node_etw.stamp
