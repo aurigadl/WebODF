@@ -1,0 +1,29 @@
+{
+  "name": "webodf_build",
+  "version": "0.4.2",
+  "homepage": "https://github.com/aurigadl/WebODF",
+  "authors": [
+    "aurigadl <aurigadl@gmail.com>"
+  ],
+  "description": "WebODF is a JavaScript library that makes it easy to add Open Document Format (ODF) support to your website and to your mobile or desktop application. It uses HTML and CSS to display ODF documents.",
+  "main": "build/webodf/webodf.js",
+  "keywords": [
+    "webodf",
+    "compiled",
+    "odt",
+    "odf",
+    "editor",
+    "open",
+    "document",
+    "format"
+  ],
+  "license": "AGPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
